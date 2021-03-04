@@ -1,2 +1,3 @@
 # Athos
-everyonr
+everyone
+
